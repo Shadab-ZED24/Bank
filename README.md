@@ -1,0 +1,2 @@
+# Bank
+Bank management system, in this project we are mention that how the transaction is perform in the bank. It tells that he whole process of creating account, withdrawal and deposit money in this project. A capable PHP language basic programmer can solve a wide range of problems in business, finance, science and other areas, programmers and application developers can complex menu driven application.
